@@ -3,6 +3,7 @@ Portfolio Personal - Elmer Pichiyá
 Este es un proyecto de portafolio personal diseñado en HTML, CSS y JavaScript para mostrar información sobre mi experiencia, habilidades y proyectos.
 
 
+
 📌 Características
 
 •	Diseño responsivo y atractivo.
@@ -14,12 +15,14 @@ Este es un proyecto de portafolio personal diseñado en HTML, CSS y JavaScript p
 •	Formulario de contacto con opción de enviar mensajes por correo.
 
 
+
 📁 Estructura del Proyecto
 
 /index.html          	# Página principal  
 /styles.css         	# Archivo de estilos  
 /script.js         	# Archivo de funcionalidad JavaScript  
 /img/              	# Carpeta de imágenes .
+
 
 
 🚀 Tecnologías Usadas
@@ -33,15 +36,20 @@ Este es un proyecto de portafolio personal diseñado en HTML, CSS y JavaScript p
 •	FontAwesome - Iconos utilizados en el sitio.
 
 
+
 📷 Capturas
 
 (Agregar capturas de pantalla si es necesario)
+
+
 
 📌 Cómo Usarlo
 
 1.	Descarga o clona el repositorio.
    
 2.	Abre el archivo index.html en un navegador.
+
+   
    
 📬 Contacto
 
