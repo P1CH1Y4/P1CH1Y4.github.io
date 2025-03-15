@@ -22,14 +22,12 @@ Este es un proyecto de portafolio personal diseñado en HTML, CSS y JavaScript p
 📷 Capturas
 (Agregar capturas de pantalla si es necesario)
 
-📌 Cómo Usarlo
+📌 Cómo Usarlo}
 1.	Descarga o clona el repositorio.
 2.	Abre el archivo index.html en un navegador.
    
 📬 Contacto
 Si deseas ponerte en contacto conmigo, puedes encontrarme en:
 •	📧 Email: epichiyac4@miumg.edu.gt
-
 •	🔗 LinkedIn: https://www.linkedin.com/in/elmer-pichiy%C3%A1-819718250/
-
 •	🖥️ GitHub: https://github.com/P1CH1Y4/P1CH1Y4.github.io
