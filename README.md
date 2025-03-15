@@ -29,5 +29,7 @@ Este es un proyecto de portafolio personal diseñado en HTML, CSS y JavaScript p
 📬 Contacto
 Si deseas ponerte en contacto conmigo, puedes encontrarme en:
 •	📧 Email: epichiyac4@miumg.edu.gt
+
 •	🔗 LinkedIn: https://www.linkedin.com/in/elmer-pichiy%C3%A1-819718250/
+
 •	🖥️ GitHub: https://github.com/P1CH1Y4/P1CH1Y4.github.io
